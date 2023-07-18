@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/frag1"
+        android:title="Frag 1"
+        android:visible="true"
+        android:icon="@drawable/baseline_cloud_24"/>
+
+    <item
+        android:id="@+id/frag2"
+        android:title="Frag 2"
+        android:visible="true"
+        android:icon="@drawable/baseline_cloud_24"/>
+
+    <item
+        android:id="@+id/frag3"
+        android:title="Frag 3"
+        android:visible="true"
+        android:icon="@drawable/baseline_cloud_24"/>
+
+    <item
+        android:id="@+id/frag4"
+        android:title="Frag 4"
+        android:visible="true"
+        android:icon="@drawable/baseline_cloud_24"/>
+
+    <item
+        android:id="@+id/frag5"
+        android:title="Frag 5"
+        android:visible="true"
+        android:icon="@drawable/baseline_cloud_24"/>
+</menu>
